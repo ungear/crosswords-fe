@@ -1,3 +1,3 @@
 export const env = {
-  crosswordsApi: ""
+  crosswordsApi: "http://localhost:3000",
 }
